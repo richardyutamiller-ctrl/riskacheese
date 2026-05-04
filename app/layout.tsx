@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Riskacheese — Dashboard',
-  description: 'Founder dashboard for Riskacheese',
+  title: 'Riskacheese — Know your numbers',
+  description: 'A founder dashboard to track revenue, growth, and funnel performance.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
